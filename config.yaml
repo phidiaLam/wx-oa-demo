@@ -1,0 +1,7 @@
+wechat:
+  app_id: "12341234"
+  app_secret: "134123414235"
+  token: "141325r31r"
+  encoding_aes_key: "11234123532512341r31"
+server:
+  port: ":8080"
